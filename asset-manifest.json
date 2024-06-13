@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GadgetReact/static/css/main.e6c13ad2.css",
+    "main.js": "/GadgetReact/static/js/main.54765ec5.js",
+    "static/js/453.ed3810f9.chunk.js": "/GadgetReact/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/GadgetReact/index.html",
+    "main.e6c13ad2.css.map": "/GadgetReact/static/css/main.e6c13ad2.css.map",
+    "main.54765ec5.js.map": "/GadgetReact/static/js/main.54765ec5.js.map",
+    "453.ed3810f9.chunk.js.map": "/GadgetReact/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.54765ec5.js"
+  ]
+}
